@@ -1,1 +1,1 @@
-# thmenu
+# Menu design tested on Chrome, Firefox, Opera, Safari, Chrome for iOS, Chrome for Android, Safari for iOS.
